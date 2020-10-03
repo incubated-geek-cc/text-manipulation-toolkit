@@ -2,6 +2,7 @@
 ## All text-manipulation tools on a single page.
 Disclaimer: Original source code is not by me. Taken from: https://www.textmechanic.co/<br/>
 No server or deployment required. Offline text-manipulation tool.<br/>
+<br/>
 **Preview:**
 ![Preview](https://github.com/incubated-geek-cc/text-manipulation-toolkit/blob/main/img/preview.png)
 
