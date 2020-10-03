@@ -3,6 +3,8 @@
 Disclaimer: Original source code is not by me. Taken from: https://www.textmechanic.co/<br/>
 No server or deployment required. Offline text-manipulation tool.<br/>
 
+[!Preview](https://github.com/incubated-geek-cc/text-manipulation-toolkit/blob/main/img/preview.png)
+
 **Functionalities include:**
 * Count Characters Words Sentences Lines
 * Find and Replace
